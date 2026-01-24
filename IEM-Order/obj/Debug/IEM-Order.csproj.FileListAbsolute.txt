@@ -1,0 +1,8 @@
+D:\TSE_SEARCH\IEM-Order\IEM-Order\bin\Debug\IEM-Order.exe.config
+D:\TSE_SEARCH\IEM-Order\IEM-Order\obj\Debug\IEM-Order.exe
+D:\TSE_SEARCH\IEM-Order\IEM-Order\obj\Debug\IEM-Order.pdb
+D:\TSE_SEARCH\IEM-Order\IEM-Order\bin\Debug\IEM-Order.exe
+D:\TSE_SEARCH\IEM-Order\IEM-Order\bin\Debug\IEM-Order.pdb
+D:\TSE_SEARCH\IEM-Order\IEM-Order\obj\Debug\IEM-Order.csprojResolveAssemblyReference.cache
+D:\TSE_SEARCH\IEM-Order\IEM-Order\obj\Debug\IEM_Order.Properties.Resources.resources
+D:\TSE_SEARCH\IEM-Order\IEM-Order\obj\Debug\IEM-Order.csproj.GenerateResource.Cache
